@@ -48,3 +48,8 @@ Languages: C, Java , SQL
  Az -900
  
  Aws Cloud practitioner Essentials
+
+ ## 📊 GitHub Stats
+
+(https://github-readme-stats.vercel.app/api?username=AKash112005&show_icons=true&theme=github_Light)
+
