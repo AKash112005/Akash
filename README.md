@@ -70,5 +70,7 @@ Languages: C, Java , SQL
 
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/)
 
+📌 Always learning & exploring new technologies! 🚀
+
 
 
