@@ -53,4 +53,19 @@ Languages: C, Java , SQL
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash112005&show_icons=true&cache_seconds=86400)
 
+## 🔧 Mostly Used AWS Concepts
+
+[![EC2](https://img.shields.io/badge/AWS-EC2-orange)](https://aws.amazon.com/ec2/)
+
+[![S3](https://img.shields.io/badge/AWS-S3-blue)](https://aws.amazon.com/s3/)
+
+[![Lambda](https://img.shields.io/badge/AWS-Lambda-purple)](https://aws.amazon.com/lambda/)
+
+[![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-lightgrey)](https://aws.amazon.com/dynamodb/)
+
+[![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-yellow)](https://aws.amazon.com/cloudformation/)
+
+[![API Gateway](https://img.shields.io/badge/AWS-API%20Gateway-red)](https://aws.amazon.com/api-gateway/)
+
+
 
