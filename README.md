@@ -1,7 +1,7 @@
 👋 Hi, I'm Akash
-I'm a Information Technology Student at Bannari Amman Institute of Technology and a Full-Stack Developer passionate about building scalable and efficient solutions.
+I'm a Information Technology Student at Bannari Amman Institute of Technology and a Cloud/DevOps Engineer passionate about building scalable and efficient solutions.
 
-📧 Email: akash.it23@bitsathy.ac.in
+📧 Email: akash.it2027@gmail.com
 
 🌍 LeetCode: https://leetcode.com/u/AKASH__V/
 
