@@ -33,22 +33,6 @@ Version Control: Git, GitHub
 
 Languages: C, Java , SQL
 
-🚀certifications and Badges 
-
- https://www.credly.com/badges/718eb9ef-3cb4-405a-8d10-ab8df0987e46/public_url
- 
- https://www.credly.com/badges/87d4d6e2-d1c0-413a-ab6c-edfe6f86f42a/public_url
- 
- https://www.credly.com/badges/8cea79c1-c740-4356-bde5-9b31d00a6c15/public_url
- 
- https://www.credly.com/badges/bf65dfdb-d59b-477a-93c3-0db2c388a3c8/public_url
- 
- Salesforce Agentforce Specialist
- 
- Az -900
- 
- Aws Cloud practitioner Essentials
-
 
 ## 🔧 Mostly Used AWS Concepts
 
